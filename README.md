@@ -18,4 +18,4 @@
 # Download
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<a href="https://docs.google.com/uc?export=download&id=1SpS68-axu2VWRV7n9EbNnGEzH9glIx9A">Honra Samurai Mobile 2.0</a>
+<a href="https://docs.google.com/uc?export=1wugKPOV2LcAXb7R7N7E4VNfDFH70OteN">Honra Samurai Mobile 2.0</a>
