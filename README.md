@@ -5,8 +5,18 @@
 # Sobre
 
 <h2>Gênero : Plataforma / Aventura</h2>
-<h2>Plataforma : Windows / Mac / Linux (v 2.1) / Android (v 2.0).</h2>
-<h2>Versão Atual : 2.0</h2>
+<h2>Plataforma : Windows (v 2.1) / Android (v 2.0)</h2>
+<h2>Linguagem: 🇧🇷<h2>
+<h2>Versão Atual : 2.1</h2>
+  
+#Especificações Mínimas
+  
+<ol>
+  <li>Processador : Celeron</li>
+  <li>Placa de video : GeForce GT 210</li>
+  <li>Memória RAM : 2 GB </li>
+  <li>Armazenamento livre: 5 GB </li>
+</ol>
 
 # História
 
@@ -29,4 +39,8 @@
 
 <a href="https://docs.google.com/uc?export=download&id=1wugKPOV2LcAXb7R7N7E4VNfDFH70OteN">Honra Samurai Mobile 2.0</a>
 
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<a href="https://drive.google.com/file/d/1ytyO8YzKMoe0n7PWrjFpmiypQ9EqdU9V/view?usp=sharing">Honra Samurai Windows 2.1</a>
+  
+<a href="https://drive.google.com/file/d/14KH36o_ChYohH0Wr1-54fKr0fO3u3wkL/view?usp=sharing">Honra Samurai Windows 1.4</a>
