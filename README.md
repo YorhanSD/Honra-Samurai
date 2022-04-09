@@ -6,7 +6,7 @@
 
 <h2>Gênero : Plataforma / Aventura</h2>
 <h2>Plataforma : Windows (v 2.1) / Android (v 2.0)</h2>
-<h2>Linguagem: ![](🇧🇷)<h2>
+<h2>Linguagem: ![image](https://user-images.githubusercontent.com/79441853/162588088-b74a2339-d416-4dcc-a7be-397d952c3cc7.png)<h2>
 <h2>Versão Atual : 2.1</h2>
   
 # Requisitos mínimos de hardware
@@ -32,7 +32,7 @@
 <h2>Colete itens e fique mais forte</h2>
 
 ![Lute com poderosos inimigos](https://user-images.githubusercontent.com/79441853/162585993-e63e80cd-791b-4e4a-95cc-8949e6ac80af.jpg)
-<h2>Derrote poderosos chefes e conquiste toda a gloria</h2>
+<h2>Derrote poderosos chefes e conquiste toda a glória</h2>
 
 # Downloads
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
