@@ -6,7 +6,8 @@
 
 <h2>Gênero : Plataforma / Aventura</h2>
 <h2>Plataforma : Windows (v 2.1) / Android (v 2.0)</h2>
-<h2>Linguagem: ![image](https://user-images.githubusercontent.com/79441853/162588088-b74a2339-d416-4dcc-a7be-397d952c3cc7.png)</h2>
+<h2>Idioma: ![image](https://user-images.githubusercontent.com/79441853/162588127-f9bdad34-c85b-4a70-b419-661a63185393.png)
+</h2>
 <h2>Versão Atual : 2.1</h2>
   
 # Requisitos mínimos de hardware
