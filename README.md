@@ -1,21 +1,32 @@
-![Screenshot_2022-02-07-14-15-52-527_com YSDGames HonraSamuraiMobile](https://user-images.githubusercontent.com/79441853/152842665-45328d7d-3c19-4b0d-bc16-cddfc81e68e6.jpg)
+![Capa](https://user-images.githubusercontent.com/79441853/162585738-a4c53afb-d8bd-44af-8d55-f8eb54e1e439.jpg)
 
 <h1>Honra-Samurai</h1>
 
 # Sobre
 
 <h2>Gênero : Plataforma / Aventura</h2>
-<h2>Plataforma : Android</h2>
+<h2>Plataforma : Windows / Mac / Linux (v 2.1) / Android (v 2.0).</h2>
 <h2>Versão Atual : 2.0</h2>
 
-<h3>O jogador deve se aventurar pelo mapa, em busca de itens valiosos, para poder enfrentar os inimigos e passar por armadilhas letais, utilizando-se das habilidades mágicas do samurai kizau, que busca incessantemente livrar seu país, dominado pelos maquinários.</h3>
+# História
 
-![Screenshot_2022-02-07-14-14-35-032_com YSDGames HonraSamuraiMobile](https://user-images.githubusercontent.com/79441853/152844520-d0e95344-f639-4661-876a-f0f8df62e74b.jpg)
-![Screenshot_2022-02-07-14-21-31-253_com YSDGames HonraSamuraiMobile](https://user-images.githubusercontent.com/79441853/152844898-e2425888-d167-4ee1-b6ea-8d84cb9b891a.jpg)
-![Screenshot_2022-02-07-14-21-55-071_com YSDGames HonraSamuraiMobile](https://user-images.githubusercontent.com/79441853/152845664-ac195dbb-9a92-466e-bc70-7ebfa4d0f4cd.jpg)
-![Screenshot_2022-02-07-14-22-21-913_com YSDGames HonraSamuraiMobile](https://user-images.githubusercontent.com/79441853/152846304-7509dcb0-4f05-4391-b484-8d3398fe99cd.jpg)
+<h3>O jogador, deve se aventurar pelo mapa em busca de valiosos itens para poder enfrentar os inimigos e passar por armadilhas letais, utilize também as habilidades mágicas do samurai Kizau, que busca incessantemente livrar seu país dominado pelos maquinários e recuperar uma runa mística que da poder aos samurai</h3>
 
-# Download
+![Trave batalhas com inimigos](https://user-images.githubusercontent.com/79441853/162585764-66abd6e3-7cd1-4fe8-baac-beccacf91ca8.jpg)
+<h2>Lute contra os temidos maquinários</h2>
+
+![Desvie de armadilhas letais](https://user-images.githubusercontent.com/79441853/162585816-82f4e001-13d1-4fc2-9a23-04960cedff8d.jpg)
+<h2>Use toda sua habilidade para passar por inumeras armadilhas mortais</h2>
+
+![Colete itens valiosos](https://user-images.githubusercontent.com/79441853/162585962-97350b17-9065-402d-bca4-a12c1b93b5af.jpg)
+<h2>Colete itens e fique mais forte</h2>
+
+![Lute com poderosos inimigos](https://user-images.githubusercontent.com/79441853/162585993-e63e80cd-791b-4e4a-95cc-8949e6ac80af.jpg)
+<h2>Derrote poderosos chefes e conquiste toda a gloria</h2>
+
+# Downloads
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <a href="https://docs.google.com/uc?export=download&id=1wugKPOV2LcAXb7R7N7E4VNfDFH70OteN">Honra Samurai Mobile 2.0</a>
+
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
