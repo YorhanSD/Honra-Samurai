@@ -15,7 +15,7 @@
   <li><h3>Processador : Celeron</h3></li>
   <li><h3>Placa de video : GeForce GT 210</h3></li>
   <li><h3>Memória RAM : 2 GB</h3></li>
-  <li><h3>Armazenamento livre: 5 GB</h3></li>
+  <li><h3>Armazenamento livre: 100 MB</h3></li>
 </ul>
 
 # História
